@@ -6,36 +6,34 @@
     >
 
     <Button
-        android:text="#"
+        android:text="@string/b_1"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:id="@+id/button3"
         />
 
     <ListView
-        android:text="TplLacationAns"
         android:layout_width="160dp"
         android:layout_height="100dp"
         android:id="@+id/TplLacationAns"
-        android:textSize="20dp"
+        android:textSize="20sp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
         android:layout_alignTop="@+id/TriwifiList"
         android:layout_toEndOf="@+id/TriwifiList" />
 
     <ListView
-        android:text="TriwifiList"
         android:layout_width="300dp"
         android:layout_height="100dp"
         android:id="@+id/TriwifiList"
-        android:textSize="20dp"
+        android:textSize="20sp"
         android:layout_alignParentStart="true"
         android:layout_toStartOf="@+id/textView5"
         android:layout_alignParentBottom="true"
         android:layout_below="@+id/textView5" />
 
     <Button
-        android:text="#"
+        android:text="@string/b_2"
         android:layout_width="40dp"
         android:layout_height="40dp"
         android:id="@+id/button4"
@@ -43,7 +41,7 @@
         android:layout_toEndOf="@+id/button3" />
 
     <TextView
-        android:text="@string/A"
+        android:text="@string/t_1"
         android:layout_width="630dp"
         android:layout_height="40dp"
         android:id="@+id/textView11"
@@ -52,7 +50,7 @@
         android:layout_below="@+id/button3" />
 
     <TextView
-        android:text="@string/B"
+        android:text="@string/t_2"
         android:layout_width="630dp"
         android:layout_height="40dp"
         android:id="@+id/textView5"

@@ -7,7 +7,9 @@
     <string name="wifi_analysis">wifi_analysis</string>
     <string name="wifi_ssid">Recommand WiFi SSID</string>
     <string name="start_scan">Start Scan</string>
-    <string name="A">AP名字：座標 / 訊號強度(dBm) / 距離(公尺)     [依訊號強度前三強之AP]</string>
-    <string name="B"> 兩圓是否都相交/收尋次數/定位結果</string>
+    <string name="t_1">AP名字：座標 / 訊號強度(dBm) / 距離(公尺)     [依訊號強度前三強之AP]</string>
+    <string name="t_2"> 兩圓是否都相交/搜尋次數/定位結果</string>
+    <string name="b_1">add</string>
+    <string name="b_2">\@</string>
 
 </resources>
